@@ -1,1 +1,1 @@
-# Student-Management-System-In-JDBC---Imran-Rizvi
+# Student-Management-System-In-JDBC
